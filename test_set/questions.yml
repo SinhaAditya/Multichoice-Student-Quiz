@@ -1,0 +1,22 @@
+     questions:
+        - question:  UML Class Diagrams provide a simple way of describing the ....... that make up your program, the fields and methods of the classes, and the way classes relate to each other.
+          answers:
+            - classes
+            - objects
+            - methods
+            - bananas
+          answer: 1
+        - question: aggregation (a class is made up of another class) This is a ...... relationship. That is when a line connects two class with an empty diamond then objects of one class are made up of objects of the other class.
+          answers:
+            - 'has a'
+            - 'uses'
+            - 'is a'
+            - 'does a'
+          answer: 1
+        - question: realises (a class implements the interface for another class) This is a ..... relationship. And is depicted with an unfilled arrow head and a dashed line.
+          answers:
+            - 'has a'
+            - 'uses'
+            - 'is a'
+            - 'does a'
+          answer: 4
